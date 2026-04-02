@@ -1,0 +1,19 @@
+git init
+git add . /  git add filename.py
+git commit -m "initial project setup"
+git remote add origin https://github.com/your-username/repo-name.git
+git branch -M main
+git push -u origin main
+
+git pull origin main --allow-unrelated-histories
+git push
+
+git status *-main or master*
+
+GitHub is a web-based platform built on Git that allows developers to store code, track changes, and collaborate efficiently using repositories, branches, and version control features.
+
+What you can do
+-Save your programs
+-Track changes in code
+-Work with team members
+-Show your projects to others
